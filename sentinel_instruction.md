@@ -1,5 +1,5 @@
 # sentinel_instruction
-**sentinel的控制台使用(注：第一次启动sentinel的时候，需要把服务注册到sentinel中去，调用服务接口)**
+sentinel的控制台使用(注：第一次启动sentinel的时候，需要把服务注册到sentinel中去，调用服务接口)**
 
 ## 一、界面介绍
 
